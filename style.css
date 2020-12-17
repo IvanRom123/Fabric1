@@ -1,0 +1,60 @@
+body{
+  background-color: green;
+}
+hr {
+  border-style: groove;
+  border-top-style: dashed;
+  border-color: black;
+  border-width: 5px;
+  width: 50%;
+}
+.anime{
+  color:aqua;
+  font-family: cursive;
+  height: inherit;
+  font-style: normal;
+  font-weight: 600;
+  background-repeat: round;
+  line-height: inherit;
+  font-variant: small-caps;
+}
+.anime2{
+  color:aqua;
+  font-family: cursive;
+  height: inherit;
+  font-style: normal;
+  font-weight: 600;
+  background-repeat: round;
+  line-height: inherit;
+  font-variant: small-caps;
+}
+.anime3{
+  color:aqua;
+  font-family: cursive;
+  height: inherit;
+  font-style: normal;
+  font-weight: 600;
+  background-repeat: round;
+  line-height: inherit;
+  font-variant: small-caps;
+}
+.gul{
+  color:blue;
+  font-family: cursive;
+  height: inherit;
+  font-style: normal;
+  font-weight: 600;
+  background-repeat: round;
+  line-height: inherit;
+  font-variant: small-caps;
+}
+.gulianus{
+  color:yellow;
+  font-family: cursive;
+  height: inherit;
+  font-style: normal;
+  font-weight: 600;
+  background-repeat: round;
+  line-height: inherit;
+  font-variant: small-caps;
+}
