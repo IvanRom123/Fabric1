@@ -1,0 +1,29 @@
+pre, p {
+    font-size: 5em;
+    color: #FE7F88;
+    background-color: transparent;
+}
+
+div {
+  background-image: url("file:///C:/Users/%D0%9A%D0%98%D0%91%D0%95%D0%A0%D0%A7%D0%98%D0%A7%D0%90/Desktop/neon.jpg");
+  background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+height: 500px;
+}
+
+p {
+  background-image: none;
+}
+
+.catsandstars {
+  background-image:  url("file:///C:/Users/%D0%9A%D0%98%D0%91%D0%95%D0%A0%D0%A7%D0%98%D0%A7%D0%90/Desktop/sintwave.jpg");
+
+  background-color: transparent;
+  background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+height: 500px;
+}
