@@ -5,7 +5,7 @@ pre, p {
 }
 
 div {
-  background-image: url("file:///C:/Users/%D0%9A%D0%98%D0%91%D0%95%D0%A0%D0%A7%D0%98%D0%A7%D0%90/Desktop/neon.jpg");
+  background-image: url("https://ivanrom123.github.io/Fabric1/neon.jpg");
   background-attachment: fixed;
 background-position: center;
 background-repeat: no-repeat;
@@ -18,7 +18,7 @@ p {
 }
 
 .catsandstars {
-  background-image:  url("file:///C:/Users/%D0%9A%D0%98%D0%91%D0%95%D0%A0%D0%A7%D0%98%D0%A7%D0%90/Desktop/sintwave.jpg");
+  background-image:  url("https://ivanrom123.github.io/Fabric1/sintwave.jpg");
 
   background-color: transparent;
   background-attachment: fixed;
